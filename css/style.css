@@ -47,7 +47,7 @@
     width: 30px;
     position: fixed;
     bottom: 0;
-    left: 10px;
+    right: 10px;
 }
 .social-links img {
     background-color: #FFF;
