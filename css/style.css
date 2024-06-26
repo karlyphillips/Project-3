@@ -72,3 +72,7 @@
     overflow: scroll;
     padding: 5em;
 }
+.main img {
+    right: 100px;
+    top: 50px;
+}
