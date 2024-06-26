@@ -1,7 +1,7 @@
 .navigation {
     width: 100%;
     height: 60px;
-    overflow: scroll;
+    overflow: hidden;
     background-color: rgb(220, 151, 245);
     position: fixed;
     top: 0;
