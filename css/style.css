@@ -1,6 +1,11 @@
 .navigation {
-    width: 500px;
-    height: 100px;
+    width: 100%;
+    height: 60px;
+    overflow: scroll;
     background-color: rgb(220, 151, 245);
     position: fixed;
+    top: 0;
+    bottom: 0;
+    line-height: 60px;
 }
+.navigation
