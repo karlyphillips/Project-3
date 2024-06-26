@@ -11,6 +11,7 @@
 .navigation a {
     color: #FFF;
     text-decoration: none;
+    font-size: 12pt
 }
 
 .site-info {
@@ -39,7 +40,7 @@
     padding: 0 1em;
 }
 .site-links a:hover {
-    background-color: #999;
+    background-color: #e368c4;
 }
 
 .social-links {
@@ -55,11 +56,11 @@
     height: auto;
     display: block;
     padding: 5px;
-    border: 10px dotted #FFF;
+    border: 20px dotted #85278c;
     border-radius: 100%;
 }
 .social-links img:hover {
-    border-color: #999;
+    border-color: #772188;
 }
 
 .main {
