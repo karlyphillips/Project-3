@@ -65,8 +65,8 @@
 }
 .music_video iframe {
     background-color: #FFF;
-    width: 100%;
-    height: auto;
+    width: 560;
+    height: 315;
     display: block;
     padding: 5px;
     border: 5px dotted #FFF;
