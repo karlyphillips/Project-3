@@ -68,6 +68,11 @@ body {
 .social-links img:hover {
     border-color: #772188;
 }
+.main {
+    overflow: scroll;
+    padding: 5em;
+    background-color: #FFF;
+}
 .music_video iframe {
     background-color: #FFF;
     width: 560;
